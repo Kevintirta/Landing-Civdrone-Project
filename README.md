@@ -1,7 +1,7 @@
 # Landing-Civdrone-Project
 
 
-<img align="right" src="https://github.com/Kevintirta/Landing-Civdrone-Project/blob/master/deviation.png" width="700" height="525">
+<img align="center" src="https://github.com/Kevintirta/Landing-Civdrone-Project/blob/master/deviation.png" width="700" height="525">
 
 
 **Project Background:**<br/>
