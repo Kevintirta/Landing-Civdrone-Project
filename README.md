@@ -8,7 +8,7 @@
 To plot the deviation between the drone location and target location due to disturbance in the air.
 
 **Plot description:**<br/>
-The red line represents the ideal situation when the deviation is 0 which means the drone land perfectly on target location. Meanwhile, the blue line shows the deviation over time.
+The red line represents the ideal situation when the deviation is 0 which means the drone land perfectly on target location. Meanwhile, the blue line shows the deviation over time. It makes more sense if the 'deltaTime' in JSON file is assumed to be in milliseconds unit.
 
 **How to run the file:**<br/>
 1. Download the landing_deviation.py and landingData.JSON in the same directory
