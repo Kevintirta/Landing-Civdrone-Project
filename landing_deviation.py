@@ -58,7 +58,8 @@ list_time = []
 for data in file:
     distance = dist(data,target_lat, target_lon)
     list_dist.append(distance)
-    list_time.append(data['deltaTime'])
+    time_in_s = data['deltaTime']/1000
+    list_time.append(time_in_s)
 
 plt.plot(list_time,list_dist,label='deviation')
 plt.title('Time vs Deviation Plot')
